@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Starter Site for Gatsby Theme Musician",
-    description: "",
-    siteUrl: "https://github.com/ekafyi/starter-musician-theme"
+    title: "Acid Wash",
+    description: "Acid Wash is an Electronic Acid Music Project",
+    siteUrl: "http://acidwash.org/"
   },
   plugins: [
     // Add gatsby-theme-musician to your site
