@@ -4,7 +4,7 @@
   image: "./images/presoak.jpg"
   links:
     - name: Bandcamp
-      url: https://acidwashmusic.bandcamp.com/presoak
+      url: https://acidwashmusic.bandcamp.com
 
 - title: Presoak
   date: 2019-03-01
@@ -16,7 +16,7 @@
 
 - title: Presoak
   date: 2019-03-01
-  release_type: Releases
+  release_type: Album
   image: "./images/presoak.jpg"
   links:
     - name: Bandcamp
